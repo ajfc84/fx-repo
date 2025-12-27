@@ -1,0 +1,9 @@
+PackageIdentifier: FxSoftTech.FxShopPrint
+PackageVersion: 2.53.0-alpha240
+InstallerType: msi
+Installers:
+  - Architecture: x64
+    InstallerUrl: https://fxshop.net/var/www/downloads/windows/fx-shop-print_2.53.0240.0.msi
+    InstallerSha256: 360c24b39facb59eb0222329dc1c886305e053f8e1f10e9a8e8b78a118e35558
+ManifestType: installer
+ManifestVersion: 1.6.0
