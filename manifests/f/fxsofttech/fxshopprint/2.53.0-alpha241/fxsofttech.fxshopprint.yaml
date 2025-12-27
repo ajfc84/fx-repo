@@ -1,0 +1,8 @@
+PackageIdentifier: FxSoftTech.FxShopPrint
+PackageVersion: 2.53.0-alpha241
+PackageName: FxShopPrint
+Publisher: FxSoftTech
+License: Proprietary
+ShortDescription: FxShop Print Agent for POS integration
+ManifestType: version
+ManifestVersion: 1.6.0
